@@ -1,2 +1,2 @@
-# segate-page-takeover
-segate-page-takeover
+# Segate Page Takeover
+Seagate Domain Takeover POC Repo
